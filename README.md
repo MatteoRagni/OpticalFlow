@@ -1,10 +1,10 @@
 OpticalFlow
 ===========
 
-In those file there are some classes useful to evaluate dense optical flow with OpenCV libraries.
+In those file there are some classes useful to evaluate dense optical flow with OpenCV libraries. The library is at beta stage.
 
-THE CLASS IS IN BETA VERSION!
------------------------------
+OpticalFlowPC
+-------------
 
 This class is part of another project in my repo [1], that will publied in the next days.
 
