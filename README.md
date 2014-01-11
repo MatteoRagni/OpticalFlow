@@ -6,11 +6,11 @@ In those file there are some classes useful to evaluate dense optical flow with 
 OpticalFlowPC
 -------------
 
-This class is part of another project in my repo [1], that will publied in the next days.
+This class is part of another project in my repo [[1]], that will publied in the next days.
 
 Classes are developed with variable precision. To have double precision you have to compile with definition `PRECISION_DOUBLE`. If you want single precision, define the variable `PRECISION_FLOAT`.
 
-`OpticalFlowPC` uses phase correlation to evaluate the optical flow [2]. The class is provided as an "engine class", that should be initialized and then used with `eval` method:
+`OpticalFlowPC` uses phase correlation to evaluate the optical flow [[2]]. The class is provided as an "engine class", that should be initialized and then used with `eval` method:
 
 This is an example:
 
@@ -42,6 +42,7 @@ IF YOU LIKE OR WANT TO USE THIS PROJECT, PLEASE STAR IT!
 ---
 
 1: Project Repo
+
 2: Optical Flow Estimation using Fourier Mellin Transform.
 
  [1]: https://github.com/MatteoRagni
